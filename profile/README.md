@@ -13,7 +13,7 @@ We now use this as our main repository for tracking project process, wiki docume
 
 ### [jkan](https://github.com/OpenDataScotland/jkan)
 
-A lightweight, backend-free open data portal, powered by Jekyll and originally created by [https://github.com/timwis](timwis). This repository holds the source code we use to generate the static site pages for [opendata.scot](opendata.scot).
+A lightweight, backend-free open data portal, powered by Jekyll and originally created by [timwis](https://github.com/timwis)). This repository holds the source code we use to generate the static site pages for [opendata.scot](opendata.scot).
 
 ### [opendata.scot_pipeline](https://github.com/OpenDataScotland/opendata.scot_pipeline)
 
