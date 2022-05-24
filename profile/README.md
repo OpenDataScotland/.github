@@ -1,0 +1,24 @@
+# Welcome to Open Data Scotland
+
+We are a volunteer-led team working to create a directory of all open datasets across Scotland.
+
+## Repository summaries
+
+Looking to learn more about what repositories we have? Check out the information below!
+
+### the_od_bods
+The original repository that was set up off the back of this project starting at [Code The City 23](https://codethecity.org/2021/06/13/3689/) where we collated open datasets across local authorities in Scotland.
+
+We now use this as our main repository for tracking project process, wiki documentation and scripting toolsets we use to scrape data for our website, [opendata.scot](opendata.scot)
+
+### jkan
+
+A lightweight, backend-free open data portal, powered by Jekyll and originally created by [https://github.com/timwis](timwis). This repository holds the source code we use to generate the static site pages for [opendata.scot](opendata.scot).
+
+### opendata.scot_pipeline
+
+Created at [Code The City 26](https://codethecity.org/what-we-do/hack-weekends/ctc26/) as part of our milestone to automate our dataset gathering process. This repository holds the GitHub Actions workflow for automatically running our data scraping scripts on a regular basis to update the datasets shown on [opendata.scot/datasets])(opendata.scot)
+
+### opendata.scot_analytics
+
+Created at [Code The City 26](https://codethecity.org/what-we-do/hack-weekends/ctc26/). This repository holds the GitHub Actions workflow for the daily dump of our [Plausible](http://plausible.io/opendata.scot) website analytics data.
