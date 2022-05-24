@@ -17,7 +17,7 @@ A lightweight, backend-free open data portal, powered by Jekyll and originally c
 
 ### [opendata.scot_pipeline](https://github.com/OpenDataScotland/opendata.scot_pipeline)
 
-Created at [Code The City 26](https://codethecity.org/what-we-do/hack-weekends/ctc26/) as part of our milestone to automate our dataset gathering process. This repository holds the GitHub Actions workflow for automatically running our data scraping scripts on a regular basis to update the datasets shown on [opendata.scot/datasets])(opendata.scot)
+Created at [Code The City 26](https://codethecity.org/what-we-do/hack-weekends/ctc26/) as part of our milestone to automate our dataset gathering process. This repository holds the GitHub Actions workflow for automatically running our data scraping scripts on a regular basis to update the datasets shown on [opendata.scot/datasets](opendata.scot)
 
 ### [opendata.scot_analytics](https://github.com/OpenDataScotland/opendata.scot_analytics)
 
