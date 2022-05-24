@@ -22,3 +22,11 @@ Created at [Code The City 26](https://codethecity.org/what-we-do/hack-weekends/c
 ### [opendata.scot_analytics](https://github.com/OpenDataScotland/opendata.scot_analytics)
 
 Created at [Code The City 26](https://codethecity.org/what-we-do/hack-weekends/ctc26/). This repository holds the GitHub Actions workflow for the daily dump of our [Plausible](http://plausible.io/opendata.scot) website analytics data.
+
+## Contributions
+
+Contributions (big and small) are always welcome! Please check out our [project board](https://github.com/OpenDataScotland/the_od_bods/projects/1) to see what we're working on at the moment.
+
+Not sure where to start or what to work on? Feel free to get in touch with us...
+* on Twitter [@opendata_sco](https://twitter.com/opendata_sco) 
+* on [Slack: Open Data Scotland](https://join.slack.com/t/opendatascotland/shared_invite/zt-yfcc64tg-xIF1cOxkWbKZqI8ZBPzkGg) #od-bods
