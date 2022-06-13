@@ -29,4 +29,4 @@ Contributions (big and small) are always welcome! Please check out our [project 
 
 Not sure where to start or what to work on? Feel free to get in touch with us...
 * on Twitter [@opendata_sco](https://twitter.com/opendata_sco) 
-* on [Slack: Open Data Scotland](https://join.slack.com/t/opendatascotland/shared_invite/zt-yfcc64tg-xIF1cOxkWbKZqI8ZBPzkGg) #od-bods
+* on [Slack: Open Data Scotland](https://join.slack.com/t/opendatascotland/shared_invite/zt-yfcc64tg-xIF1cOxkWbKZqI8ZBPzkGg) #ods-website
