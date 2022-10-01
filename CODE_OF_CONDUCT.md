@@ -63,7 +63,6 @@ reported to the community leaders responsible for enforcement through the
 following contact methods:
 
 - Twitter: [@opendata_sco](https://twitter.com/opendata_sco)
-- Slack: [#ods-website](https://join.slack.com/t/opendatascotland/shared_invite/zt-yfcc64tg-xIF1cOxkWbKZqI8ZBPzkGg)
 - Email: [admin@opendata.scot](mailto:admin@opendata.scot)
 
 All complaints will be reviewed and investigated promptly and fairly.

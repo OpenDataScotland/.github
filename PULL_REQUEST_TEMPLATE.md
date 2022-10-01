@@ -11,6 +11,7 @@
 <!--- Please describe in detail how you tested your changes. -->
 <!--- Include details of your testing environment, and the tests you ran to -->
 <!--- see how your change affects other areas of the code, etc. -->
+<!-- If you are unsure how to add tests, please ask for guidance when you open your PR -->
 
 ## Screenshots (if appropriate):
 

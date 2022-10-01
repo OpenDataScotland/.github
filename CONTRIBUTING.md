@@ -49,6 +49,10 @@ Thanks to @gavbarnett for writing this section
 
     Try to make each commit do just one (normally fairly small) logical thing. And describe why you've made the change in the commit message. (What you've changed is clear by the code, but why is often not so clear.) Also in your commit message should be any testing you performed/ or did not perform.
 
+    We use [Black](https://black.readthedocs.io/en/stable/) to format our Python code in order to adopt a PEP-8 compatible way of unambiguously formatting code. Once you have finished with your code changes, please install Black using `pip install black` and then run it from the root project directory using `black .` or `python -m black .`.
+
+<!-- TODO: We need to automate running Black on PR open or merge as per https://github.com/OpenDataScotland/the_od_bods/issues/118 -->
+
 
 4. Issue PR or Draft PR
 
