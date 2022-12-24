@@ -6,8 +6,8 @@ We are a volunteer-led team working to create a directory of all open datasets a
 
 Looking to learn more about what repositories we have? Check out the information below!
 
-### [](https://github.com/OpenDataScotland/opendata.scot_docs)
-Read our docs at [https://docs.opendata.scot/](https://docs.opendata.scot/) including background about the project, and how to navigate and contribute to the project.
+### [opendata.scot_docs](https://github.com/OpenDataScotland/opendata.scot_docs)
+Read our docs at [https://docs.opendata.scot/](https://docs.opendata.scot/) including background on the project and how to navigate and contribute to the project.
 
 ### [the_od_bods](https://github.com/OpenDataScotland/the_od_bods)
 The original repository that was set up off the back of this project starting at [Code The City 23](https://codethecity.org/2021/06/13/3689/) where we collated open datasets across local authorities in Scotland.
