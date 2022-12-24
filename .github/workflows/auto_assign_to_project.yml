@@ -10,7 +10,7 @@ jobs:
       GITHUB_TOKEN: '${{ secrets.AUTO_ASSIGN_TOKEN }}'
     steps:
       - name: Assign new issues to project
-        uses: srggrs/assign-one-project-github-action@1.2.1
-        if: github.event.action == 'opened'
+        uses: actions/add-to-project@0.4.0
         with:
-          project: 'https://github.com/orgs/OpenDataScotland/projects/3'
+          project-url: https://github.com/orgs/OpenDataScotland/projects/3
+          github-token: ${{ secrets.AUTO_ASSIGN_TOKEN }}
