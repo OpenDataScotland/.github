@@ -1,30 +1,37 @@
-# Never used git/github before?
-More help at the bottom of this page!
+# Contribution Guide
+
+Never used git/github before? More help at the bottom of this page.
 
 
 # Super-quick contributor guide
 
-1. Get [issue](https://github.com/OpenDataScotland/the_od_bods/issues): Find the issue you're working on OR create a new one.
+1. Get [issue](https://github.com/orgs/OpenDataScotland/projects/3)
+    - Find the issue you're working on OR create a new one.
 
 2. Create branch from issue:
     - In issue webpage, on right-hand bar of issue, scroll to the _Development_ section and click _Create a branch_.
     - Fetch and checkout to new branch
 
-3. Make changes in branch    
+3. Make changes in branch  
     - Add and commit changes
+    - If working in python, format code in Black before push using `python Black <filename>`
     - Push to branch
 
 4. Create pull request
+    - State issue number in the title of PR + _link_ or reference the _issue_ number
     - Resolve merge conflicts (if any)
     - Let tests run, resolve issues if any
-    - Request a reviewer (optional: somebody will pick it up but if you have had prior discussions with a repo admin it may be good to request their review.)
+    - Request a reviewer (optional: somebody will pick it up but if you have had prior discussions with a repo admin go ahead and request their review)
  
  5. Wait
     - Reviewer will review/request changes/ merge PR
     - Reviewer to merge and delete branch
+    - Please be patient - this project is maintained by volunteers and sometimes we can't get a spare minute. But do please (gently) nudge us on slack if you feel the PR may have been forgotten. Another reviewer may be able to pick it up.
     
-
 6. Enjoy that contributor feeling!
+    - The pipeline refreshes every Friday lunchtime, your contribution may not show up until then.
+
+Note: all contributions should be through pull request + 1 reviewer. The only exception to this is when a hot-fix is needed to restore critical function.
 
 
 # More detailed contributor guide
