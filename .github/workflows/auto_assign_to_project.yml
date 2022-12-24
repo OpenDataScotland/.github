@@ -1,3 +1,5 @@
+# NOTE: Changine this workflow will impact on all other repos that have the issue auto-assigner workflow in use
+
 name: Issue auto-assigner
 on:
     workflow_call:
