@@ -28,8 +28,9 @@ This repository holds the GitHub Actions workflow for the daily dump of our [Pla
 
 ## Contributions
 
-Contributions (big and small) are always welcome! Please read our [Contributor Guide](.github/CONTRIBUTING.md) and check out our [2023 project board](https://github.com/orgs/OpenDataScotland/projects/3) to see what we're working on at the moment.
+Contributions (big and small) are always welcome! Please read our [Contributor Guide](.github/CONTRIBUTING.md) and check out our [project board](https://github.com/orgs/OpenDataScotland/projects) to see what we're working on at the moment.
 
 Not sure where to start or what to work on? Get in touch with us!
-* on Twitter [@opendata_sco](https://twitter.com/opendata_sco) 
+* on Mastodon [@opendatascotland@mastodon.scot](https://mstdn.social/@opendatascotland@mastodon.scot)
+* on [LinkedIn](https://www.linkedin.com/company/opendatascotland)
 * on [Slack: Open Data Scotland](https://join.slack.com/t/opendatascotland/shared_invite/zt-yfcc64tg-xIF1cOxkWbKZqI8ZBPzkGg) #ods-website
